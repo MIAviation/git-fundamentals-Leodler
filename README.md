@@ -1,4 +1,4 @@
-[Cat](cat.jpg)
+![Cat](cat.jpg)
 
 # :wave: The Basics of GitHub 
 
